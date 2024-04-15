@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👾, I'm Sneha Thiyagarajan</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
+
 - 📚 I am currently focused on advancing my proficiency in app development by mastering Flutter as part of my  skill set.
 - 👨‍💻 Portfolio [https://portfolio-nfoq.onrender.com/](https://portfolio-nfoq.onrender.com/)
 - 📧 Reach me : snehathyagarajan3@gmail.com
