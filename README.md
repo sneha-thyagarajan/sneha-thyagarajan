@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Full stack web developer.</h3>
 
 - 👨‍💻 Portfolio [https://portfolio-nfoq.onrender.com/](https://portfolio-nfoq.onrender.com/)
+- 📧 Reach me : snehathyagarajan3@gmail.com
 
 
 ## 🌐 Socials:
