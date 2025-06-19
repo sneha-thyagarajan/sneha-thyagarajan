@@ -1,7 +1,7 @@
 ![github-header-image (2)](https://github.com/sneha-thyagarajan/sneha-thyagarajan/assets/131603569/27d22a96-3e1e-4aee-9950-719d70c96f45)
 
 <h1 align="center">Hi 👾, I'm Sneha Thiyagarajan</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+
 
 - 📚 I am currently focused on advancing my proficiency in app development by mastering Flutter as part of my  skill set.
 - 👨‍💻 Portfolio [https://portfolio-nfoq.onrender.com/](https://portfolio-nfoq.onrender.com/)
